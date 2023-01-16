@@ -5,6 +5,7 @@
 - 😄 Learn about me at: [Profile Page](https://jeremyle56.github.io/profile-page/) 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeremyle56&layout=compact&theme=tokyonight" alt="stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=jeremyle56&show_icons=true&theme=react" alt="stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeremyle56&layout=compact&theme=tokyonight" alt="langs"/>
 </p>
 <!-- ![Jeremy's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeremyle56&show_icons=true&theme=tokyonight) -->
