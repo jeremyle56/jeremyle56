@@ -10,4 +10,8 @@
 
 - 😄 Learn about me at: [Profile Page](https://jeremyle56.github.io/profile-page/) 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeremyle56&layout=compact&theme=react" alt="langs"/>
+<!--- Credits to: https://github.com/jstrieb/github-stats -->
+![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-light-mode-only)
