@@ -2,7 +2,7 @@
 
 - 🎓 I'm studying: Computer Science & Mathematics @ UNSW
 
-  - COMP3121 (Algorithms and Programming Techniques)
+  - COMP3821 (Extended Algorithms and Programming Techniques)
   - COMP3311 (Database Systems)
   - MATH2111 (Higher Several Variable Calculus)
   
