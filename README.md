@@ -8,7 +8,7 @@
   
 - 🌱 I’m currently learning: Python, MERN (MongoDB, ExpressJS, ReactJS, NodeJS) Stack
 
-- 😄 Learn about me at: [Profile Page](https://jeremyle56.github.io/profile-page/) 
+<!-- - 😄 Learn about me at: [Profile Page](https://jeremyle56.github.io/profile-page/)  -->
 
 <!--- Credits to: https://github.com/jstrieb/github-stats -->
 ![](https://raw.githubusercontent.com/jeremyle56/github-stats/master/generated/overview.svg#gh-dark-mode-only)
