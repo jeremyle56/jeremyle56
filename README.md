@@ -6,7 +6,7 @@
   - COMP3311 (Database Systems)
   - MATH2111 (Higher Several Variable Calculus)
   
-- 🌱 I’m currently learning: Python, MERN (MongoDB, ExpressJS, ReactJS, NodeJS) Stack
+- 🌱 I’m currently learning: Python and Various Web Development Technologies
 
 <!-- - 😄 Learn about me at: [Profile Page](https://jeremyle56.github.io/profile-page/)  -->
 
