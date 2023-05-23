@@ -1,12 +1,12 @@
-# Sup :D
+# Hello :D
 
 - 🎓 I'm studying: Computer Science & Mathematics @ UNSW
 
-  - COMP3821 (Extended Algorithms and Programming Techniques)
-  - COMP3311 (Database Systems)
-  - MATH2111 (Higher Several Variable Calculus)
+  - COMP2041 (Software Construction: Techniques and Tools)
+  - MATH2601 (Higher Linear Algebra)
+  - MATH2901 (Higher Theory of Statistics)
   
-- 🌱 I’m currently learning: Python and Various Web Development Technologies
+<!-- - 🌱 I’m currently learning: Python and Various Web Development Technologies -->
 
 <!-- - 😄 Learn about me at: [Profile Page](https://jeremyle56.github.io/profile-page/)  -->
 
