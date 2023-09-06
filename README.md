@@ -11,7 +11,7 @@
   - COMP1531 (Software Engineering Fundamentals)
   - COMP3121 (Algorithms and Programming Techniques)
   
-<!-- - 🌱 I’m currently learning: Python and Various Web Development Technologies -->
+- 🌱 I’m currently working on: Web Development and Competitive Programming Problems
 
 <!-- - 😄 Learn about me at: [Profile Page](https://jeremyle56.github.io/profile-page/)  -->
 
