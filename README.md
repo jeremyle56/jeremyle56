@@ -8,7 +8,7 @@
 - 👨‍🏫 I'm tutoring @ CSE (Computer Science and Engineering) UNSW
 
   - COMP1531 (Software Engineering Fundamentals)
-  - COMP3121 (Algorithms and Programming Techniques)
+  - COMP3121 (Algorithms Design and Analysis)
   
 - 🌱 I’m currently working on: Web Development and Competitive Programming Problems
 
