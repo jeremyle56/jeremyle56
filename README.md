@@ -2,9 +2,8 @@
 
 - 🎓 I'm studying: Computer Science & Mathematics @ UNSW
 
-  - COMP2511 (Object-Oriented Design & Programming)
-  - COMP6841 (Extended Security Engineering and Cyber Security)
-  - MATH2621 (Higher Complex Analysis)
+  - COMP3891 (Extended Operating Systems)
+  - MATH3711 (Higher Algebra)
  
 - 👨‍🏫 I'm tutoring @ CSE (Computer Science and Engineering) UNSW
 
