@@ -3,11 +3,12 @@
 - 🎓 I'm studying: Computer Science & Mathematics @ UNSW
 
   - COMP3891 (Extended Operating Systems)
-  - MATH3711 (Higher Algebra)
+  - MATH3161 (Optimization)
  
 - 👨‍🏫 I'm tutoring @ CSE (Computer Science and Engineering) UNSW
 
   - COMP1531 (Software Engineering Fundamentals)
+  - COMP2041 (Software Construction: Techniques and Tools)
   - COMP3121 (Algorithms Design and Analysis)
   
 - 🌱 I’m currently working on: Web Development and Competitive Programming Problems
