@@ -3,7 +3,7 @@
 - 🎓 I'm studying: Computer Science & Mathematics @ UNSW
 
   - COMP3891 (Extended Operating Systems)
-  - MATH3161 (Optimization)
+  - MATH3431 (Number Theory)
  
 - 👨‍🏫 I'm tutoring @ CSE (Computer Science and Engineering) UNSW
 
