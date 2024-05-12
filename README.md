@@ -2,13 +2,14 @@
 
 - 🎓 I'm studying: Computer Science & Mathematics @ UNSW
 
-  - COMP3891 (Extended Operating Systems)
-  - MATH3431 (Number Theory)
+  - COMP3141 (Software System Design and Implementation)
+  - COMP3900 (Computer Science Project)
+  - MATH2221 (Higher Theory and Applications of Differential Equations)
  
 - 👨‍🏫 I'm tutoring @ CSE (Computer Science and Engineering) UNSW
 
-  - COMP1531 (Software Engineering Fundamentals)
   - COMP2041 (Software Construction: Techniques and Tools)
+  - COMP2511 (Object-Oriented Design & Programming)
   - COMP3121 (Algorithms Design and Analysis)
   
 - 🌱 I’m currently working on: Web Development and Competitive Programming Problems
