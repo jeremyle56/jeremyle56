@@ -2,13 +2,13 @@
 
 - 🎓 I'm studying: Computer Science & Mathematics @ UNSW
 
-  - COMP3331 (Computer Networks and Applications)
-  - MATH3711 (Higher Algebra)
-  - MATH5425 (Graph Theory)
+  - MATH3611 (Higher Analysis)
+  - COMP9417 (Machine Learning and Data Mining)
  
 - 👨‍🏫 I'm tutoring @ CSE (Computer Science and Engineering) UNSW
 
   - COMP3121 (Algorithms Design and Analysis)
+  - COMP4128 (Programming Challenges)
   - Previously taught: COMP1531, COMP2041, COMP2511
   
 - 🌱 I’m currently working on: Web Development and Competitive Programming Problems
