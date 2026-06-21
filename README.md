@@ -5,7 +5,7 @@
 - 👨‍🏫 I'm tutoring @ CSE (Computer Science and Engineering) UNSW
 
   - COMP3121 (Algorithm Design and Analysis), COMP4128 Programming Challenges)
-  - Previously taught: COMP1531, COMP2041, COMP2511, COMP2521, COMP2041
+  - Previously taught: COMP1531, COMP2041, COMP2511, COMP2521, COMP3821
 
 - 🌱 In my free time I like to do competitive programming problems
 
